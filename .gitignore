@@ -27,6 +27,8 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+#Procfile
+app.yaml
 #static
 static/
 
